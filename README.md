@@ -6,3 +6,8 @@ I took the Introduction to Git and GitHub course on the Coursera. This was compl
 Then I practiced with https://learngitbranching.js.org/?locale=ru_RU. This game helped me remember most of the commands and learn new ones.
 <img src="images/learngitbranching2.png" alt="result1">
 <img src="images/learngitbrandhing1.png" alt="result2">
+
+1. Linux, Command Line, HTTP Tools
+
+While I was going through <a href="https://linuxsurvival.com/">Linux Survival</a>, I learned a lot of new Linux commands, such as cat, df, ps, grep etc.
+<img src="images/Linux-survival.png" alt="lenux-survival-result">
