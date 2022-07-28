@@ -12,7 +12,8 @@
 <img src="git-basics/learngitbranching1.png" alt="result1" width="40%">
 <img src="git-basics/learngitbranching2.png" alt="result2" width="40%">
 
-<h2>1. Linux CLI and Networking</h2>
+## Linux CLI, and HTTP
+
 <p>
     While I was going through
     <a href="https://linuxsurvival.com/">Linux Survival</a>, I learned a lot
