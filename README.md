@@ -39,3 +39,7 @@ I took 1 and 2 weeks of the course [HTML, CSS, and Javascript for Web Developers
 
 ![screen1](task_html_css_intro/chaikin1.png)
 ![screen2](task_html_css_intro/chaikin2.png)
+
+I took the course [Learn HTML](https://www.codecademy.com/learn/learn-html) on Codeacademy. It wasn't new for me.
+
+![html screen](task_html_css_intro/html.png)
