@@ -80,3 +80,12 @@ I took the courses [Learn HTML](https://www.codecademy.com/learn/learn-html) and
 In article [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/) I learned a lot new stuff like meta viewport tag, layout floats using percentages for the width, multiple-column layout. I will definitely use a meta viewport tag in future.
 
 I finally figured out the flexbox with [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x), which I studied a little earlier. I also learned a lot about flex-direction, order, flex-basis/grow/shrink etc. I was most surprised that you can set the distance between items using a negative margin and positive padding. I will use it.
+
+I played a [Flexbox Froggy](https://flexboxfroggy.com/#ru) game. It was super fun 😁
+
+<details>
+<summary>Screenshots</summary>
+
+![flexbox froggy screenshot](./task_responsive_web_design/froggy.png)
+
+</details>
