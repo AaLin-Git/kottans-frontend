@@ -5,8 +5,11 @@
 I took the [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) course on the Coursera. This was completely new information for me. I have learned many different commands. I was surprised that there is even a git help command that gives information on any command. I think I will use this often.
 
 <details><summary>Screenshots</summary>
+<br>
 ![week1](git-basics/Coursera1.png)
-![week2](git-basics/Coursera2.png)</details>
+![week2](git-basics/Coursera2.png)
+
+</details>
 
 Then I practiced with [learngitbranching](https://learngitbranching.js.org/?locale=ru_RU). This game helped me remember most of the commands and learn new ones.
 
@@ -40,7 +43,7 @@ I took the [Introduction to Git and GitHub](https://www.coursera.org/learn/intro
 ![screen2](git-basics/learngitbranching2.png)
 </details>
 
-## Intro to HTML and CSS
+## 3.Intro to HTML and CSS
 
 I took 1 and 2 weeks of the course [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers). I learned a lot about the W3C validator, semantic tags, HTML entities, CSS box-sizing etc. What surprised me the most was the CSS rule "Last declaration wins". This cleared up a lot of the bugs I've run into before 😅
 
@@ -56,7 +59,7 @@ I took the courses [Learn HTML](https://www.codecademy.com/learn/learn-html) and
 ![css screen](task_html_css_intro/css.png)
 </details>
 
-## Responsive Web Design
+## 4.Responsive Web Design
 
 In article [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/) I learned a lot new stuff like meta viewport tag, layout floats using percentages for the width, multiple-column layout. I will definitely use a meta viewport tag in future.
 
