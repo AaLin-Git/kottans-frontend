@@ -81,6 +81,8 @@ In article [Responsive web design basics](https://web.dev/i18n/en/responsive-web
 
 I finally figured out the flexbox with [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x), which I studied a little earlier. I also learned a lot about flex-direction, order, flex-basis/grow/shrink etc. I was most surprised that you can set the distance between items using a negative margin and positive padding. I will use it.
 
+I also listened [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) playlist. I learned a lot about grid-template-rows, grid-template-columns, grid-template-areas, minmax, repeat etc.
+
 I played the [Flexbox Froggy](https://flexboxfroggy.com/#ru) and [GRID GARDEN](https://cssgridgarden.com/#ru) games. It was super fun 😁
 
 <details>
